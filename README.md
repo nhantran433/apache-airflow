@@ -19,5 +19,14 @@ docker-compose up airflow-init
 
 ### Step 4: Start Airflow
 ```bash
-docker-compse
+docker-compose
 ```
+
+### Step 5: Access Airflow
+
+Access Airflow at `localhost:8080/admin`.
+
+Login with:
+
+- **User**: airflow
+- **Password**: airflow
